@@ -29,6 +29,13 @@
 <h2 align="center">Windows USB Disk Creator for macOS</h2>
 
 <div align="center">
+  <pre style="display: inline-block; text-align: center;">
+    ⚠️ <b>WARNING:</b> This project ONLY has a GitHub page! ⚠️
+    All other websites are <b>FAKE</b>. 
+    This GitHub page is the ONLY official place where you can download this software.</pre>
+</div>
+
+<div align="center">
   <pre style="display: inline-block; text-align: left;">
     💖 Hey there! If you like my work, please <b><a href="#%EF%B8%8F-support-me-%EF%B8%8F-donations">support me financially!</a></b> 💖</pre></div>
 
@@ -280,7 +287,7 @@ With this USB drive, you can install and enjoy <strong>Windows</strong> on your 
     Bitcoin (BTC): <b>bc1qe2z68uwgplxfzspdy5pnxhzza2spep0ryk5zeq</b>
   </li>
   <li>
-    Toncoin [TON]: <b>UQBzFgALzKsCW6dLrc4sA0WoBhdODEK2KliGgoi1Hj8UqXOb</b>
+    Toncoin [TON]: <b>UQC-4xGw9jowk93dWXHVVTUpboe2hb6GT3W4g6yxn3hphCYc</b>
   </li>
   <li>
     Etherium (ETH): <b>0x1410acAc3e0De885f4fb8C305a2F7B586d47c5ff</b>
@@ -292,7 +299,7 @@ With this USB drive, you can install and enjoy <strong>Windows</strong> on your 
     Tether USD [USDT] (<b>E</b>RC20): <b>0x1410acAc3e0De885f4fb8C305a2F7B586d47c5ff</b>
   </li>
   <li>
-    Tether USD [USDT] (<b>T</b>RC20): <b>TKR1dtAHsHwaQYwUx6FGTwpfUM9rzepGVu</b>
+    Tether USD [USDT] (<b>T</b>RC20): <b>TMRsfsEDMNwA1KYRTFHT55SxcFxyYQVzoH</b>
   </li>
 </ul>
 
